@@ -22,7 +22,7 @@
 
 🚀 **Get Started:**
 
-1. 📥 Clone the repository: `git clone https://github.com/your-username/music-app-react.git`
+1. 📥 Clone the repository: `git clone https://github.com/argha-paul-2002/Music-App-React.git`
 2. 📁 Navigate to the project directory: `cd music-app-react`
 3. ⚙️ Install dependencies: `npm install`
 4. 🚀 Start the development server: `npm start`
@@ -31,4 +31,4 @@
 
 Music-App-React welcomes contributions from music enthusiasts and developers alike. If you have ideas to improve the landing page, add exciting features, or optimize performance, your contributions will resonate like a well-composed symphony.
 
-[📱 Live Demo](https://your-website.com/music-app-react-demo)
+[📱 Live Demo](https://music-app-react-argha.netlify.app/)
