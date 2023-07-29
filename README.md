@@ -1,6 +1,6 @@
 🎵📱 **Music-App-React: Discover and Groove with the Music App Landing Page** 🎵📱
 
-**Music-App-React** is a captivating and fully responsive landing page for a cutting-edge Music App, skillfully crafted with React JS and enhanced with the finesse of Tailwind CSS and Chakra UI. Embark on a musical journey like never before as you explore the world of seamless melodies and immersive beats. Whether you're a music lover or a trendsetting artist, Music-App-React offers an enchanting and user-friendly platform to experience the magic of music.
+**Music-App-React** is a captivating and fully responsive landing page for a cutting-edge Music App, skillfully crafted with React JS and enhanced with the finesse of Tailwind CSS. Embark on a musical journey like never before as you explore the world of seamless melodies and immersive beats. Whether you're a music lover or a trendsetting artist, Music-App-React offers an enchanting and user-friendly platform to experience the magic of music.
 
 🎧 **Key Features:**
 
