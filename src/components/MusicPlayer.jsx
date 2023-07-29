@@ -64,8 +64,8 @@ function MusicPlayer() {
                   y2="1"
                   gradientUnits="objectBoundingBox"
                 >
-                  <stop offset="0" stop-color="#f2061d" />
-                  <stop offset="1" stop-color="#e600fe" />
+                  <stop offset="0" />
+                  <stop offset="1" />
                 </linearGradient>
               </defs>
               <path
@@ -92,8 +92,8 @@ function MusicPlayer() {
                   y2="1.074"
                   gradientUnits="objectBoundingBox"
                 >
-                  <stop offset="0" stop-color="#f2061e" />
-                  <stop offset="1" stop-color="#e600fd" />
+                  <stop offset="0" />
+                  <stop offset="1" />
                 </linearGradient>
               </defs>
               <rect
