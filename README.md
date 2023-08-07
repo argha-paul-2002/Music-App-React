@@ -28,7 +28,6 @@
 4. 🚀 Start the development server: `npm start`
 
 🌟 **Contributions Welcome:**
-
 Music-App-React welcomes contributions from music enthusiasts and developers alike. If you have ideas to improve the landing page, add exciting features, or optimize performance, your contributions will resonate like a well-composed symphony.
 
 [📱 Live Demo](https://music-app-react-argha.netlify.app/)
